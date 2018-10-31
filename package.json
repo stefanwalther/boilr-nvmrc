@@ -11,5 +11,30 @@
     "url": "https://github.com/stefanwalther/boilr-nvmrc/issues"
   },
   "homepage": "https://github.com/stefanwalther/boilr-nvmrc#readme",
-  "description": "Boilr template to create a dead simple .nvmrc file."
+  "description": "Boilr template to create a dead simple .nvmrc file.",
+  "verb": {
+    "run": true,
+    "toc": "collapsible",
+    "label": "empty",
+    "tasks": [
+      "readme"
+    ],
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "lint": {
+      "reflinks": true
+    },
+    "reflinks": [
+      "verb",
+      "verb-readme-generator"
+    ]
+  },
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }

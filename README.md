@@ -5,8 +5,6 @@
 ---
 
 ## Purpose
-stefanwalther/boilr-nvmrc
-
 The following files are generated:
 
 ```
