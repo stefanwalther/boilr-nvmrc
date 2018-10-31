@@ -1,0 +1,15 @@
+{
+  "name": "boilr-nvmrc",
+  "version": "0.1.0",
+  "author": "Stefan Walther <swr.nixda@gmail.com> (http://qliksite.io)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefanwalther/boilr-nvmrc.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stefanwalther/boilr-nvmrc/issues"
+  },
+  "homepage": "https://github.com/stefanwalther/boilr-nvmrc#readme",
+  "description": "Boilr template to create a dead simple .nvmrc file."
+}
