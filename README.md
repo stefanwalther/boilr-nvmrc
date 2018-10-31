@@ -76,7 +76,8 @@ $ boilr template list
 ### Related projects
 Some related projects:
 
- 
+- [boilr-editorconfig](https://www.npmjs.com/package/boilr-editorconfig): boilr template for an .editorconfig | [homepage](https://github.com/stefanwalther/boilr-editorconfig#readme "boilr template for an .editorconfig")
+- [boilr-gitignore](https://www.npmjs.com/package/boilr-gitignore): boilr template for a .gitignore file. | [homepage](https://github.com/stefanwalther/boilr-gitignore#readme "boilr template for a .gitignore file.") 
 
 ### Author
 **Stefan Walther**
